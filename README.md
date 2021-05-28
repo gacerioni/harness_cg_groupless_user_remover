@@ -55,6 +55,8 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
 
 * [python3.6+](https://www.python.org/downloads/)
 
+* A Harness account, of course!
+
 * For MacOs Users, please double-check the SSL CERT
    ```sh
    cd /Applications/Python\ 3.9/ # PUT YOUR PYTHON VERSION
@@ -65,45 +67,28 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gacerioni/tibia_monster_loot_item_id.git
+   git clone https://github.com/gabrielcerioni/harness_graphql_labs.git
    ```
 2. Install the project dependecies (very simple stuff, meant to deal with requests, json, html)
    ```sh
    pip install -r requirements.txt
    ```
-3. Enjoy ;)
+3. Export the required variables (Just to avoid Secrets, KMS, Vaults, etc, to keep this project simple)
+   ```sh
+   export HARNESS_GRAPHQL_ENDPOINT=https://app.harness.io/gateway/api/graphql?accountId=<your_acc>
+   export HARNESS_GRAPHQL_API_KEY=<YOUR_API_KEY>
+   ```
+
+4. Enjoy ;)
    ```sh
    python main.py
-   # Demon
    <...>
    ```
-4. (Optional) If you want to run the API on your local env
-   ```sh
-   git clone https://github.com/gacerioni/tibia_monster_loot_item_id.git
-   cd tibia_monster_loot_item_id
-   pip install pipenv
-   sudo pipenv shell
-   pipenv install --dev
-   export TIBIA_API_MONGODB_USR="<USER>"
-   export TIBIA_API_MONGODB_PWD="<PWD>"
-   cd ./api
-   uvicorn main:app --reload
-   ```
-
-<!-- HOW TO USE THE API -->
-## How to use the API
-
-TODO
-
-uvicorn main:app --reload
-
-* [FastAPI Automatic Swagger Docs](http://127.0.0.1:8000/docs)
-* [FastAPI Redoc Automatic Docs](http://127.0.0.1:8000/redoc)
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/gacerioni/tibia_monster_loot_item_id/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/gabrielcerioni/harness_graphql_labs/issues) for a list of proposed features (and known issues).
 
 
 
@@ -132,15 +117,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Gabriel Cerioni - [@gabs.tar.gz](https://www.instagram.com/gabs.tar.gz/) - gacerioni@gmail.com
 
-Project Link: [https://github.com/gacerioni/tibia_monster_loot_item_id/](https://github.com/gacerioni/tibia_monster_loot_item_id/)
+Project Link: [https://github.com/gabrielcerioni/harness_graphql_labs/](https://github.com/gabrielcerioni/harness_graphql_labs/)
 
 <!-- Tech Stack -->
 ## Tech Stack
 
 * [Python](https://www.python.org/)
-* [MongoDB](https://www.mongodb.com/)
-* [PyMongo](https://pymongo.readthedocs.io/en/stable/)
-* [FastAPI](https://fastapi.tiangolo.com/)
+* [GraphQL](https://graphql.org/)
+* [Harness](https://harness.io)
+* [Python GQL](https://github.com/graphql-python/gql)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
