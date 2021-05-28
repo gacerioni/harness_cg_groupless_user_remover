@@ -15,7 +15,7 @@
     <img src="images/harness_banner.jpeg" alt="Logo">
   </a>
 
-  <h3 align="center">Tibia Monster Loot Item ID Discovery (CLI and API) - by Gabs the Creator</h3>
+  <h3 align="center">GraphQL Python Labs - by Gabs the CSE</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
