@@ -31,7 +31,6 @@
         <li><a href="#installation-and-usage">Installation and Usage</a></li>
       </ul>
     </li>
-    <li><a href="#how-to-use-the-api">How to use the API</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
