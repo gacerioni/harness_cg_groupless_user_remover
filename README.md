@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/gabrielcerioni/harness_graphql_labs">
-    <img src="images/Tibia_Logo.png" alt="Logo" width="220" height="123">
+    <img src="images/harness_banner.jpeg" alt="Logo" width="220" height="123">
   </a>
 
   <h3 align="center">Tibia Monster Loot Item ID Discovery (CLI and API) - by Gabs the Creator</h3>
