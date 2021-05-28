@@ -45,21 +45,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I'm always playing with autoloot State of the Art on OTServers... that's the reason.
+The main goal of this project is to mantain a trustful source of Python GraphQL queries, to help Harness Customers.
 
-![Product Name Screen Shot][product-screenshot]
-
-[![Postman API all items][api_postman_all]](http://127.0.0.1:8000/tibiaitems)
-
-[![Postman API by Name][api_postman_name]](http://127.0.0.1:8000/tibiaitems/name/sToNe%20OF%20wIsDoM)
-
-[![Postman API by ID][api_postman_id]](http://127.0.0.1:8000/tibiaitems/id/4124)
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
