@@ -62,7 +62,23 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
    ./Install\ Certificates.command
    ```
 
-### Installation and Usage
+### Installation and Usage - Container Image
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/gabrielcerioni/harness_graphql_labs.git
+   cd harness_graphql_labs/
+   ```
+2. Build the Container image (this will be on DockerHub soon, Drone on the way)
+   ```sh
+   docker build --tag python-docker-gabs .
+   ```
+3. Run the Container, passing the required Env Vars
+   ```sh
+   docker run -e "HARNESS_ACCOUNT=SSHyJhwkS1ym9wSLGyw2aw" -e "HARNESS_GRAPHQL_API_KEY=U1NIeUpod2tTMXltOXdTTEd5dzJhdzo6dWFmUzVHUUtZZVhnMDUwZkM1V21QcjlRNlRLWWNiek8xYnpvZVVwTEIxY0ZoWXhVdlVEREJtMkM3VlBzcHc0d3J2MzlxdXRGbFQ4amRrN1I=" python-docker-gabs
+   ```
+
+### Old School Installation and Usage
 
 1. Clone the repo
    ```sh
