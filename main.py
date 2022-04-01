@@ -23,9 +23,10 @@ requests_logger.setLevel(logging.WARNING)
 
 # API_KEY = "<YOUR_KEY>"
 # API_ENDPOINT = "https://app.harness.io/gateway/api/graphql?accountId=<ACC_ID>"
+#API_ENDPOINT = os.environ.get('HARNESS_GRAPHQL_ENDPOINT')
 API_KEY = os.environ.get('HARNESS_GRAPHQL_API_KEY')
-API_ENDPOINT = os.environ.get('HARNESS_GRAPHQL_ENDPOINT')
-
+HARNESS_ACCOUNT = os.environ.get('HARNESS_ACCOUNT')
+API_ENDPOINT = "https://app.harness.io/gateway/api/graphql?accountId={0}".format(HARNESS_ACCOUNT)
 
 def generic_graphql_query(query):
     req_headers = {
