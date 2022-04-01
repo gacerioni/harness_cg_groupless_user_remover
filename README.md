@@ -66,7 +66,7 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gabrielcerioni/harness_graphql_labs.git
+   git clone https://github.com/gacerioni/harness_graphql_labs.git
    cd harness_graphql_labs/
    ```
 2. Build the Container image (this will be on DockerHub soon, Drone on the way)
@@ -82,7 +82,7 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gabrielcerioni/harness_graphql_labs.git
+   git clone https://github.com/gacerioni/harness_graphql_labs.git
    ```
 2. Install the project dependecies (very simple stuff, meant to deal with requests, json, html)
    ```sh
