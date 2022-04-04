@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/gabrielcerioni/harness_cg_groupless_user_remover">
+  <a href="https://github.com/gacerioni/harness_cg_groupless_user_remover">
     <img src="images/harness_banner.jpeg" alt="Logo">
   </a>
 
@@ -103,7 +103,7 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/gacerioni/harness_cg_groupless_user_remover/issues) for a list of proposed features (and known issues).
 
 
 
@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Gabriel Cerioni - [@gabs.tar.gz](https://www.instagram.com/gabs.tar.gz/) - gacerioni@gmail.com
 
-Project Link: [https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/](https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/)
+Project Link: [https://github.com/gacerioni/harness_cg_groupless_user_remover/](https://github.com/gacerioni/harness_cg_groupless_user_remover/)
 
 <!-- Tech Stack -->
 ## Tech Stack
@@ -145,18 +145,18 @@ Project Link: [https://github.com/gabrielcerioni/harness_cg_groupless_user_remov
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/gabrielcerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
-[contributors-url]: https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gabrielcerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
-[forks-url]: https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/network/members
-[stars-shield]: https://img.shields.io/github/stars/gabrielcerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
-[stars-url]: https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/stargazers
-[issues-shield]: https://img.shields.io/github/issues/gabrielcerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
-[issues-url]: https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/issues
-[license-shield]: https://img.shields.io/github/license/gabrielcerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
-[license-url]: https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/gacerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
+[contributors-url]: https://github.com/gacerioni/harness_cg_groupless_user_remover/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gacerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
+[forks-url]: https://github.com/gacerioni/harness_cg_groupless_user_remover/network/members
+[stars-shield]: https://img.shields.io/github/stars/gacerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
+[stars-url]: https://github.com/gacerioni/harness_cg_groupless_user_remover/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gacerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
+[issues-url]: https://github.com/gacerioni/harness_cg_groupless_user_remover/issues
+[license-shield]: https://img.shields.io/github/license/gacerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
+[license-url]: https://github.com/gacerioni/harness_cg_groupless_user_remover/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/gabrielcerioni
+[linkedin-url]: https://linkedin.com/in/gacerioni
 [product-screenshot]: images/gabs_tibia.png
 [api_postman_all]: images/Postman_API_ALL.png
 [api_postman_id]: images/Postman_API_by_id.png
