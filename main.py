@@ -1,4 +1,4 @@
-__author__ = "Gabs the CSE"
+__author__ = ["Gabriel Cerioni", "Francisco Junior"]
 __copyright__ = "Copyright 2021, Gabs the Creator"
 __credits__ = ["Gabriel Cerioni", "Francisco Junior"]
 __license__ = "GPL"
