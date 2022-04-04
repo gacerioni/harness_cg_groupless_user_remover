@@ -1,10 +1,10 @@
 __author__ = "Gabs the CSE"
 __copyright__ = "Copyright 2021, Gabs the Creator"
-__credits__ = ["Gabriel Cerioni"]
+__credits__ = ["Gabriel Cerioni", "Francisco Junior"]
 __license__ = "GPL"
 __version__ = "1.0.0"
-__maintainer__ = "Gabriel Cerioni"
-__email__ = "gacerioni@gmail.com"
+__maintainer__ = ["Gabriel Cerioni", "Francisco Junior"]
+__email__ = "gabriel.cerioni@harness.io"
 __status__ = "Production"
 
 import re
