@@ -15,7 +15,7 @@
     <img src="images/harness_banner.jpeg" alt="Logo">
   </a>
 
-  <h3 align="center">GraphQL Python Labs - by Gabs the CSE</h3>
+  <h3 align="center">GraphQL Python Projects - by Gabs the CSE (and now Chico)</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
