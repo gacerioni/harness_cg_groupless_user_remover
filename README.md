@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/gabrielcerioni/harness_graphql_labs">
+  <a href="https://github.com/gabrielcerioni/harness_cg_groupless_user_remover">
     <img src="images/harness_banner.jpeg" alt="Logo">
   </a>
 
@@ -66,8 +66,8 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gacerioni/harness_graphql_labs.git
-   cd harness_graphql_labs/
+   git clone https://github.com/gacerioni/harness_cg_groupless_user_remover.git
+   cd harness_cg_groupless_user_remover/
    ```
 2. Build the Container image (this will be on DockerHub soon, Drone on the way)
    ```sh
@@ -82,7 +82,7 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gacerioni/harness_graphql_labs.git
+   git clone https://github.com/gacerioni/harness_cg_groupless_user_remover.git
    ```
 2. Install the project dependecies (very simple stuff, meant to deal with requests, json, html)
    ```sh
@@ -103,7 +103,7 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/gabrielcerioni/harness_graphql_labs/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/issues) for a list of proposed features (and known issues).
 
 
 
@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Gabriel Cerioni - [@gabs.tar.gz](https://www.instagram.com/gabs.tar.gz/) - gacerioni@gmail.com
 
-Project Link: [https://github.com/gabrielcerioni/harness_graphql_labs/](https://github.com/gabrielcerioni/harness_graphql_labs/)
+Project Link: [https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/](https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/)
 
 <!-- Tech Stack -->
 ## Tech Stack
@@ -145,16 +145,16 @@ Project Link: [https://github.com/gabrielcerioni/harness_graphql_labs/](https://
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/gabrielcerioni/harness_graphql_labs.svg?style=for-the-badge
-[contributors-url]: https://github.com/gabrielcerioni/harness_graphql_labs/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gabrielcerioni/harness_graphql_labs.svg?style=for-the-badge
-[forks-url]: https://github.com/gabrielcerioni/harness_graphql_labs/network/members
-[stars-shield]: https://img.shields.io/github/stars/gabrielcerioni/harness_graphql_labs.svg?style=for-the-badge
-[stars-url]: https://github.com/gabrielcerioni/harness_graphql_labs/stargazers
-[issues-shield]: https://img.shields.io/github/issues/gabrielcerioni/harness_graphql_labs.svg?style=for-the-badge
-[issues-url]: https://github.com/gabrielcerioni/harness_graphql_labs/issues
-[license-shield]: https://img.shields.io/github/license/gabrielcerioni/harness_graphql_labs.svg?style=for-the-badge
-[license-url]: https://github.com/gabrielcerioni/harness_graphql_labs/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/gabrielcerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
+[contributors-url]: https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gabrielcerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
+[forks-url]: https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/network/members
+[stars-shield]: https://img.shields.io/github/stars/gabrielcerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
+[stars-url]: https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gabrielcerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
+[issues-url]: https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/issues
+[license-shield]: https://img.shields.io/github/license/gabrielcerioni/harness_cg_groupless_user_remover.svg?style=for-the-badge
+[license-url]: https://github.com/gabrielcerioni/harness_cg_groupless_user_remover/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/gabrielcerioni
 [product-screenshot]: images/gabs_tibia.png
