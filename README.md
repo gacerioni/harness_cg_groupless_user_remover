@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The main goal of this project is to mantain a trustful source of Python GraphQL queries, to help Harness Customers.
+The main goal of this project is to mantain a trustful source of Python GraphQL-related automations, to help Harness Customers.
 
 
 <!-- GETTING STARTED -->
